@@ -19,6 +19,5 @@
 
 ### 📊 GitHub Stats
 
-![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderbruv123&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-coderbruv123&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderbruv123&layout=compact&theme=radical)
 
