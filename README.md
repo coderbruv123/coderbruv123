@@ -56,7 +56,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderbruv123&show_icons=true&theme=radical&hide=issues" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderbruv123&layout=compact&theme=radical" width="47%" />
 </p>
 
