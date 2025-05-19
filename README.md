@@ -15,16 +15,6 @@
 
 
 ---
-
-### 🧑‍💻 About Me
-
-- 🎓 Passionate about building robust backend systems and interactive frontends  
-- 🔭 Currently working on **React + .NET + SQL Server** projects  
-- 🌱 Actively learning **ASP.NET**, **React**  
-- 🛠️ Exploring clean architecture, design patterns, and scalable APIs
-
----
-
 ### ⚙️ Tech Stack
 
 #### 💻 Languages
@@ -51,6 +41,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+### 🧑‍💻 About Me
+
+- 🎓 Passionate about building robust backend systems and interactive frontends  
+- 🔭 Currently working on **React + .NET + SQL Server** projects  
+- 🌱 Actively learning **ASP.NET**, **React**  
+- 🛠️ Exploring clean architecture, design patterns, and scalable APIs
+
+---
+
+
 
 ### 📊 GitHub Stats
 
