@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there 👋, I'm Prashant!
 
-<!--
-**coderbruv123/coderbruv123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate software developer with a focus on **.NET**, **React**, and **full-stack development**.  
+🔭 Currently working on React + .NET + SQL projects  
+🌱 Learning ASP.NET, React, and MERN Stack  
+📫 Reach me: [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prashant-giri-3a5604207/)) 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech Stack
+
+- 💻 Languages: C#, JavaScript, SQL
+- 🌐 Frontend: React,javascript,typescript, HTML, CSS
+- 🧠 Backend: ASP.NET Core, Node.js (learning), REST APIs
+- 🛢️ Database: SQL Server
+- 🔧 Tools: Git, VS Code, Figma, Postman
+
+---
+
+### 📊 GitHub Stats
+
+![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
