@@ -5,13 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashant-giri-3a5604207/](https://www.linkedin.com/in/prashant-giri-3a5604207/)">
+  <a href="https://www.linkedin.com/in/prashant-giri-3a5604207/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="giriprashant516@gmail.com">
+  <a href="mailto:giriprashant516@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/>
   </a>
 </p>
+
 
 ---
 
