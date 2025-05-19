@@ -63,4 +63,4 @@
 ### 🚀 Let's Connect!
 
 💬 Feel free to reach out for collaboration, learning, or just a tech chat!  
-📬 [LinkedIn](https://www.linkedin.com/in/prashant-giri-3a5604207/) • 📧 your.email@example.com
+📬 [LinkedIn](https://www.linkedin.com/in/prashant-giri-3a5604207/) • 📧 giriprashant516@gmail.com
