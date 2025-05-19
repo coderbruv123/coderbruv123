@@ -19,7 +19,7 @@
 
 - 🎓 Passionate about building robust backend systems and interactive frontends  
 - 🔭 Currently working on **React + .NET + SQL Server** projects  
-- 🌱 Actively learning **ASP.NET**, **React**, and **MERN Stack**  
+- 🌱 Actively learning **ASP.NET**, **React**  
 - 🛠️ Exploring clean architecture, design patterns, and scalable APIs
 
 ---
