@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Prashant</h1>
 
 <p align="center">
-  💻 Full-Stack Developer | 🚀 Aspiring .NET Engineer | 🌱 Lifelong Learner  
+  🚀 Aspiring .NET Engineer | 🌱 Lifelong Learner  
 </p>
 
 <p align="center">
