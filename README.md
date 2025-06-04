@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://coderbruv123.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=githubpages" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/prashant-giri-3a5604207/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
